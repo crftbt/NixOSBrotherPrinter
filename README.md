@@ -1,4 +1,4 @@
-# NixOSBrotherPrinter
+# NixOS Brother Printer PPD File
 
 Steps I used to print with a Brother HL-2240 printer on NixOS 23.11.
 1. Install virt-manager
